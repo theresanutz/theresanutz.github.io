@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Theresa Nutz"
   avatar           : "profile.jpg"
-  bio              : "Sociologist at GESIS - Leibniz Institute for the Social Sciences"
+  bio              : "Sociologist at GESIS – Leibniz Institute for the Social Sciences"
   location         : 
-  employer         :
+  employer         : "https://www.gesis.org/en/institute/staff/person/Theresa.Nutz"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=eSYb0E8AAAAJ"
   email            : "theresa.nutz@gesis.org"

@@ -7,7 +7,7 @@ author_profile: true
 
 You can find my articles on [Google Scholar](https://scholar.google.de/citations?user=eSYb0E8AAAAJ).
 
-You can find the replication files of my articles on [OSF](https://osf.io/bvrt6).  
+You can find the replication files of my articles on [OSF](https://osf.io/bvrt6).
 
 Journal articles
 ======
