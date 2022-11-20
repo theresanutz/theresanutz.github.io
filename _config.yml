@@ -11,7 +11,7 @@ title                    : "Theresa Nutz"
 title_separator          : "-"
 name                     : &name "Theresa Nutz"
 description              : &description "personal description"
-url                      : https://theresanutz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nutztheresa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nutztheresa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Theresa"
+  avatar           : "profile.jpg"
+  bio              : "Sociologist at GESIS - Leibniz Institute for the Social Sciences"
+  location         : "Cologne, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.de/citations?user=eSYb0E8AAAAJ"
+  email            : "theresa.nutz@gesis.org"
+  researchgate     :  "https://www.researchgate.net/profile/Theresa-Nutz"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5803-6810"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "theresanutz"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  mastodon         : "https://sciences.social/@theresanutz"
 
 
 # Reading Files
