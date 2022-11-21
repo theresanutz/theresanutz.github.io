@@ -31,14 +31,13 @@ Nutz, Theresa (2022): Building up wealth hand in hand? Gendered life course inte
 Data
 ======
 
-Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Frembs, Lena, Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lenke, Rüdiger, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2022): FReDA – Das familiendemographische Panel, GESIS, Köln. ZA7777 Datenfile Version 1.0.0. [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
-
+Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Frembs, Lena, Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lenke, Rüdiger, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2022): FReDA – The German Family Demography Panel Study GESIS, Cologne. ZA7777. Data file Version 1.0.0, [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
 
 In progress
 ======
 
-Hünteler, Bettina, Nutz, Theresa, Wörn, Jonathan: It all runs in the family? A life course perspective on intergenerational family positions and wealth trajectories
+Hünteler, Bettina, Nutz, Theresa, Wörn, Jonathan: It all runs in the family? A life course perspective on intergenerational family positions and wealth trajectories.
 
-Nutz, Theresa, Schmid, Lisa, Pollak, Reinhard: Traditional in both directions? The gendered division of housework among migrants and natives in Germany
+Nutz, Theresa, Schmid, Lisa, Pollak, Reinhard: Traditional in both directions? The gendered division of housework among migrants and natives in Germany.
 
-Schmid, Lisa, Nutz, Theresa, Bauer, Irina: Optimizing the collection of self-administered relationship biographies
+Schmid, Lisa, Nutz, Theresa, Bauer, Irina: Optimizing the collection of self-administered relationship biographies.
