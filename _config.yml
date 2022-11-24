@@ -11,7 +11,7 @@ title                    : "Theresa Nutz"
 title_separator          : "-"
 name                     : &name "Theresa Nutz"
 description              : &description "personal description"
-url                      : https://nutztheresa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://theresanutz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "theresanutz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=eSYb0E8AAAAJ"
   email            : "theresa.nutz@gesis.org"
-  researchgate     :  "https://www.researchgate.net/profile/Theresa-Nutz"
+  researchgate     : "https://www.researchgate.net/profile/Theresa-Nutz"
   uri              :
   bitbucket        :
   codepen          :
