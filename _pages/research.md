@@ -36,8 +36,12 @@ Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard
 In progress
 ======
 
-Hünteler, Bettina, Nutz, Theresa, Wörn, Jonathan: It all runs in the family? A life course perspective on intergenerational family positions and wealth trajectories.
+Hünteler, Bettina, Nutz, Theresa, and Wörn, Jonathan: It all runs in the family? A life course perspective on intergenerational family positions and wealth accumulation.
 
-Nutz, Theresa, Schmid, Lisa, Pollak, Reinhard: Traditional in both directions? The gendered division of housework among migrants and natives in Germany.
+Nutz, Theresa, Schmid, Lisa, and Pollak, Reinhard: The division of routine and non-routine housework among migrant and native couples in Germany.
 
-Schmid, Lisa, Nutz, Theresa, Bauer, Irina: Optimizing the collection of self-administered relationship biographies.
+Schmid, Lisa, Nutz, Theresa, and Bauer, Irina: Optimizing the collection of self-administered relationship biographies.
+
+Nutz, Theresa, Tisch,  Daria, and Kapelle, Nicole: Gendered pathways to wealth: Gender differences in the self-assessed relevance of different accumulation channels across the wealth distribution.
+
+Firl, Katrin, Müller, Nora, and Nutz, Theresa: Is the pill outdated? Development and predictors of hormonal contraception in Germany.
