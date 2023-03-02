@@ -44,4 +44,6 @@ Schmid, Lisa, Nutz, Theresa, and Bauer, Irina: Optimizing the collection of self
 
 Nutz, Theresa, Tisch,  Daria, and Kapelle, Nicole: Gendered pathways to wealth: Gender differences in the self-assessed relevance of different accumulation channels across the wealth distribution.
 
-Firl, Katrin, Müller, Nora, and Nutz, Theresa: Is the pill outdated? Development and predictors of hormonal contraception in Germany.
+Müller, Nora, and Nutz, Theresa: Is the pill outdated? Development and predictors of hormonal contraception in Germany.
+
+Firl, Katrin, Müller, Nora, and Nutz, Theresa: Within-couple power constellations and postpartum contraceptive use: Evidence from Germany.
