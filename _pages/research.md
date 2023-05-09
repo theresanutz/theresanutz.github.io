@@ -33,10 +33,13 @@ Data
 
 Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Frembs, Lena, Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lenke, Rüdiger, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2022): FReDA – The German Family Demography Panel Study GESIS, Cologne. ZA7777. Data file Version 1.0.0, [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
 
-In progress
+Working papers
 ======
 
-Hünteler, Bettina, Nutz, Theresa, and Wörn, Jonathan: It all runs in the family? A life course perspective on intergenerational family positions and wealth accumulation.
+Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2023): It all runs in the family? A life course perspective on intergenerational family positions and wealth accumulation, [doi.org/10.31235/osf.io/hxuws](https://doi.org/10.31235/osf.io/hxuws)
+
+In progress
+======
 
 Nutz, Theresa, Schmid, Lisa, and Pollak, Reinhard: The division of routine and non-routine housework among migrant and native couples in Germany.
 
