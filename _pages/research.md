@@ -12,6 +12,8 @@ You can find the replication files of my articles on [OSF](https://osf.io/bvrt6)
 Journal articles
 ======
 
+Nutz, Theresa, Schmid, Lisa & Pollak, Reinhard (forthcoming). The division of routine and non-routine housework among migrant and native couples in Germany. Comparative Population Studies.
+
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, 38, 811–834, [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) 
 
 Nutz, Theresa (2022): In sole or joint names? The role of employment and marriage biographies for married women’s asset ownership in later life. Research in Social Stratification and Mobility 79 (100690), [doi.org/10.1016/j.rssm.2022.100690](https://doi.org/10.1016/j.rssm.2022.100690)
@@ -31,7 +33,10 @@ Nutz, Theresa (2022): Building up wealth hand in hand? Gendered life course inte
 Data
 ======
 
-Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Frembs, Lena, Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lenke, Rüdiger, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2022): FReDA – The German Family Demography Panel Study GESIS, Cologne. ZA7777. Data file Version 1.0.0, [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
+Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Edinger, Rüdiger, Eigenbrodt, Felicitas, Frembs, Lena C., Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2023). FReDA – The German Family Demography Panel Study. ZA7777. 
+Data File Version 2.0.0, [doi.org/10.4232/1.14065](https://dx.doi.org/10.4232/1.14065)
+
+Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert F., Spieß, C. Katharina, Wolf, Christof, Bauer, Irina, Börlin, Simon, Bretschi, David, Brüggemann, Katja, Christmann, Pablo, Frembs, Lena, Groß, Katharina, Jost, Carolin, Kunz, Tanja, Lenke, Rüdiger, Lines, Emily, Lück, Detlev, Naderi, Robert, Naumann, Elias, Nutz, Theresa, Oehrlein, Anne-Sophie, Oellers, Viktoria, Ruckdeschel, Kerstin, Schmid, Lisa, Schumann, Almut, Schumann, Nina, Stein, Annika, Thönnissen, Carolin, Ullrich, Emely, von den Driesch, Ellen & Weih, Ulrich (2022): FReDA – The German Family Demography Panel Study GESIS, Cologne. ZA7777. Data File Version 1.0.0, [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
 
 Working papers
 ======
@@ -40,8 +45,6 @@ Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2023): It all runs in the f
 
 In progress
 ======
-
-Nutz, Theresa, Schmid, Lisa, and Pollak, Reinhard: The division of routine and non-routine housework among migrant and native couples in Germany.
 
 Schmid, Lisa, Nutz, Theresa, and Bauer, Irina: Optimizing the collection of self-administered relationship biographies.
 
