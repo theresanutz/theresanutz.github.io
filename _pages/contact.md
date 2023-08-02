@@ -9,8 +9,9 @@ Dr. Theresa Nutz
 
 GESIS - Leibniz Institute for the Social Sciences 
 
-B6 4, 5 \
-68159 Mannheim \
+Data and Research on Society \
+Unter Sachsenhausen 6-8 \
+50667 Cologne \
 Germany
 
 <theresa.nutz@gesis.org>
