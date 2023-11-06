@@ -48,11 +48,6 @@ Working papers
 
 Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2023): It all runs in the family? A life course perspective on intergenerational family positions and wealth accumulation, [doi.org/10.31235/osf.io/hxuws](https://doi.org/10.31235/osf.io/hxuws)
 
-Projects
-======
-
-[The Contraception Project](https://projectcontraception.github.io)
-
 
 In progress
 ======
