@@ -14,6 +14,6 @@ My research centers around the intersection of social inequality and family soci
 
 I completed my Ph.D. in sociology at the Department of Social Sciences at Humboldt University of Berlin in 2022. In my [thesis](https://edoc.hu-berlin.de/handle/18452/25603), I examined how women’s and men’s life course biographies shape their wealth outcomes within couples in later life in different contexts.
 
-At GESIS, I work on the novel panel study FReDA – The German Family Demography Panel Study. The newest data release can be accessed [here](https://doi.org/10.4232/1.14080). For more information on the content and study design of FReDA, have a look [here](https://www.freda-panel.de/FReDA/EN/Data/Daten).
+At GESIS, I work on the panel study FReDA – The German Family Demography Panel Study. The newest data release can be accessed [here](https://doi.org/10.4232/1.14080).
 
 Contact me via <theresa.nutz@gesis.org>.
