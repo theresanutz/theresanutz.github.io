@@ -15,7 +15,7 @@ Observing women's contraceptive behavior in data from the German Family Panel (p
 ![](/images/web1.png)
 
 Is this increase in non-hormonal contraception consistent for women across different generations? We compared the contraceptive behavior of women born in the 1970s, 1980s, and 1990s, revealing an intriguing trend: The increasing popularity of non-hormonal contraception methods transcends generational boundaries.
-Particularly women of the younger generations, who were observed during most of their reproductive years in their twenties and thirties, changed their contraceptive behavior. Nearly every contracepting woman in these generations relied on hormonal methods in 2008, reachinga a peak of  around 90% in 2008). However, the subsequent decline of hormonal methods throughout the 2010s was a steady process and accompanied by a steep increase in the use of non-hormonal alternatives.
+Particularly women of the younger generations, who were observed during most of their reproductive years in their twenties and thirties, changed their contraceptive behavior. Nearly every contracepting woman in these cohorts relied on hormonal methods in 2008, reaching a peak of around 90% in 2008). The subsequent decline of hormonal methods throughout the 2010s was a steady process and accompanied by a steep increase in the use of non-hormonal alternatives across generations.
 
 ![](/images/web2.png)
 
