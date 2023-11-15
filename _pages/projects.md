@@ -20,5 +20,3 @@ Particularly women of the younger generations, who were observed during most of 
 ![](/images/web2.png)
 
 Find more information and insights on our current research on contraceptive behavior and decisions under [The Contraception Project](https://projectcontraception.github.io).
-
-
