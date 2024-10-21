@@ -12,6 +12,8 @@ You can find the replication files of my articles on [OSF](https://osf.io/bvrt6)
 Journal articles
 ======
 
+Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2024): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, soae151, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
+
 Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2024): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, jcae019, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
 
 Nutz, Theresa, Schmid, Lisa & Pollak, Reinhard (2023): The division of routine and non-routine housework among migrant and native couples in Germany. Comparative Population Studies, 48, 369-394, [doi.org/10.12765/CPoS-2023-15](https://doi.org/10.12765/CPoS-2023-15)
@@ -42,9 +44,3 @@ Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard
 Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... & Weih, U. (2023). FReDA – The German Family Demography Panel Study. GESIS, Cologne. ZA7777 Data File Version 2.0.0, [doi.org/10.4232/1.14065](https://dx.doi.org/10.4232/1.14065)
 
 Bujard, Martin, Gummer, Tobias, Hank, Karsten, Neyer, Franz J., Pollak, Reinhard, Schneider, Norbert, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... & Weih, U. (2023). FReDA – The German Family Demography Panel Study. GESIS, Cologne. ZA7777 Data File Version 1.0.0, [doi.org/10.4232/1.13745](https://doi.org/10.4232/1.13745)
-
-
-Working papers
-======
-
-Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2023): It all runs in the family? A life course perspective on intergenerational family positions and wealth accumulation, [doi.org/10.31235/osf.io/hxuws](https://doi.org/10.31235/osf.io/hxuws)
