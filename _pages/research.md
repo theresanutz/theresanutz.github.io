@@ -13,7 +13,7 @@ Journal articles
 ======
 Müller, Nora, Nutz, Theresa, Firl, Katrin & Guse, Lara (forthcoming): The ContraIndex: A multidimensional measure of contraceptive returns net of labor. Empirische Pädagogik.
 
-Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2025): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, soae151, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
+Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2025): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, 103 (4), 1307-1328, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
 
 Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2025): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, jcae019, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
 
