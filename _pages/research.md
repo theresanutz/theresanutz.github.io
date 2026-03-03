@@ -35,11 +35,11 @@ Thesis
 Nutz, Theresa (2022): Building up wealth hand in hand? Gendered life course interdependencies of personal wealth within older couples. Humboldt-Universität zu Berlin, Kultur-, Sozial- und Bildungswissenschaftliche Fakultät, [doi.org/10.18452/24803](https://doi.org/10.18452/24803)
 
 
-Working papers
+Working papers 
 ======
+Nutz, Theresa, Kapelle, Nicole & Tisch, Daria (2026). Between merit and marriage: Gender differences in self-assessed wealth contributors [doi.org/10.31235/osf.io/r6gq8_v2](https://doi.org/10.31235/osf.io/r6gq8_v2).
 
 Firl, Katrin, Müller, Nora & Nutz, Theresa (2025). The uneven burden of contraception: couples’ resources, gender beliefs, and women’s exposure to method-level contraceptive labor [doi.org/10.31235/osf.io/asfxv_v1](https://doi.org/10.31235/osf.io/asfxv_v1).
-
 
 Nutz, Theresa, Müller, Nora & Chan, Hao Ting (2024). Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach. [doi.org/10.31235/osf.io/k2q6w_v2](https://doi.org/10.31235/osf.io/k2q6w_v2)
 
