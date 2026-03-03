@@ -11,10 +11,11 @@ You can find the replication files of my articles on [OSF](https://osf.io/bvrt6)
 
 Journal articles
 ======
+Müller, Nora, Nutz, Theresa, Firl, Katrin & Guse, Lara (forthcoming): The ContraIndex: A multidimensional measure of contraceptive returns net of labor. Empirische Pädagogik.
 
-Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2024): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, soae151, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
+Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2025): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, soae151, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
 
-Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2024): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, jcae019, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
+Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2025): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, jcae019, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
 
 Nutz, Theresa, Schmid, Lisa & Pollak, Reinhard (2023): The division of routine and non-routine housework among migrant and native couples in Germany. Comparative Population Studies, 48, 369-394, [doi.org/10.12765/CPoS-2023-15](https://doi.org/10.12765/CPoS-2023-15)
 
@@ -37,13 +38,10 @@ Nutz, Theresa (2022): Building up wealth hand in hand? Gendered life course inte
 Working papers
 ======
 
-Firl, Katrin, Müller, Nora & Nutz, Theresa (2025). Who bears the burden? Couples' resources, gender ideology and women's contraceptive labor in Germany. [doi.org/10.31235/osf.io/qtvzu_v1](https://doi.org/10.31235/osf.io/qtvzu_v1).
+Firl, Katrin, Müller, Nora & Nutz, Theresa (2025). The uneven burden of contraception: couples’ resources, gender beliefs, and women’s exposure to method-level contraceptive labor [doi.org/10.31235/osf.io/asfxv_v1](https://doi.org/10.31235/osf.io/asfxv_v1).
 
 
-Müller, Nora, Nutz, Theresa, Firl, Katrin & Guse, Lara (2025). The ContraIndex: A new framework for understanding contraceptive labor. [doi.org/10.31235/osf.io/ngdez_v2](https://doi.org/10.31235/osf.io/ngdez_v2)
-
-
-Nutz, Theresa, Müller, Nora & Chan, Hao Ting (2024). Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach. [doi.org/10.31235/osf.io/k2q6w](https://doi.org/10.31235/osf.io/k2q6w)
+Nutz, Theresa, Müller, Nora & Chan, Hao Ting (2024). Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach. [doi.org/10.31235/osf.io/k2q6w_v2](https://doi.org/10.31235/osf.io/k2q6w_v2)
 
 
 Data
