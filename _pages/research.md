@@ -15,7 +15,7 @@ Müller, Nora, Nutz, Theresa, Firl, Katrin & Guse, Lara (forthcoming): The Contr
 
 Hünteler, Bettina, Nutz, Theresa & Wörn, Jonathan (2025): Intergenerational family life courses and wealth accumulation in Norway. Social Forces, 103 (4), 1307-1328, [doi.org/10.1093/sf/soae151](https://doi.org/10.1093/sf/soae151)
 
-Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2025): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, jcae019, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
+Hank, Karsten, Gummer, Tobias, Bujard, Martin, Neyer, Franz J., Pollak, Reinhard, Spieß, C. Katharina, Wolf, Christof, ..., Nutz, Theresa, ... Thönnissen, Carolin (2025): A new data infrastructure for family research and demographic analysis: The German Family Demography Panel Study (FReDA). European Sociological Review, 41 (2), 316–328, [doi.org/10.1093/esr/jcae019](https://doi.org/10.1093/esr/jcae019)
 
 Nutz, Theresa, Schmid, Lisa & Pollak, Reinhard (2023): The division of routine and non-routine housework among migrant and native couples in Germany. Comparative Population Studies, 48, 369-394, [doi.org/10.12765/CPoS-2023-15](https://doi.org/10.12765/CPoS-2023-15)
 
