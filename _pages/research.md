@@ -39,9 +39,9 @@ Working papers
 ======
 Nutz, Theresa, Kapelle, Nicole & Tisch, Daria (2026). Between merit and marriage: Gender differences in self-assessed wealth contributors [doi.org/10.31235/osf.io/r6gq8_v2](https://doi.org/10.31235/osf.io/r6gq8_v2).
 
-Firl, Katrin, Müller, Nora & Nutz, Theresa (2025). The uneven burden of contraception: couples’ resources, gender beliefs, and women’s exposure to method-level contraceptive labor [doi.org/10.31235/osf.io/asfxv_v1](https://doi.org/10.31235/osf.io/asfxv_v1).
+Firl, Katrin, Müller, Nora & Nutz, Theresa (2026). The uneven burden of contraception: couples’ resources, gender beliefs, and women’s exposure to method-level contraceptive labor [doi.org/10.31235/osf.io/asfxv_v1](https://doi.org/10.31235/osf.io/asfxv_v1).
 
-Nutz, Theresa, Müller, Nora & Chan, Hao Ting (2024). Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach. [doi.org/10.31235/osf.io/k2q6w_v2](https://doi.org/10.31235/osf.io/k2q6w_v2)
+Nutz, Theresa, Müller, Nora & Chan, Hao Ting (2025). Generational trends and predictors of hormonal contraceptive use in Germany: A machine learning approach. [doi.org/10.31235/osf.io/k2q6w_v2](https://doi.org/10.31235/osf.io/k2q6w_v2)
 
 
 Data
